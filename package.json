@@ -17,7 +17,7 @@
     "all-contributors-cli": "6.20.0",
     "jest": "25.5.4",
     "markdownlint-cli": "0.30.0",
-    "standard": "14.3.4"
+    "standard": "16.0.4"
   },
   "dependencies": {
     "yargs": "^17.0.0"
