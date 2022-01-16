@@ -30,6 +30,6 @@
   "devDependencies": {
     "get-port": "6.0.0",
     "nock": "13.2.2",
-    "tape": "5.4.0"
+    "tape": "5.4.1"
   }
 }
