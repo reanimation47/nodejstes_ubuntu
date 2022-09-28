@@ -14,7 +14,7 @@
   "author": "Tierney Cyren <hello@bnb.im>",
   "license": "MIT",
   "devDependencies": {
-    "all-contributors-cli": "6.21.0",
+    "all-contributors-cli": "6.22.0",
     "jest": "25.5.4",
     "markdownlint-cli": "0.32.2",
     "standard": "16.0.4"
