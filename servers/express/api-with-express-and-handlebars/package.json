@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "get-port": "6.1.2",
-    "nock": "13.3.3",
+    "nock": "13.3.4",
     "tape": "5.7.0"
   }
 }
