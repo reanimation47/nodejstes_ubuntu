@@ -28,7 +28,7 @@
     "semver": "^7.3.2"
   },
   "devDependencies": {
-    "get-port": "6.1.2",
+    "get-port": "7.1.0",
     "nock": "13.5.6",
     "tape": "5.9.0"
   }
