@@ -20,7 +20,7 @@
     "standard": "16.0.4"
   },
   "dependencies": {
-    "yargs": "^17.0.0"
+    "yargs": "^18.0.0"
   },
   "standard": {
     "globals": [
